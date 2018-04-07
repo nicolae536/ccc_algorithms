@@ -1,0 +1,11 @@
+D:\Workspace\VS_REPOS\equations\equations\bin\Debug\netcoreapp2.0\equations.deps.json
+D:\Workspace\VS_REPOS\equations\equations\bin\Debug\netcoreapp2.0\equations.runtimeconfig.json
+D:\Workspace\VS_REPOS\equations\equations\bin\Debug\netcoreapp2.0\equations.runtimeconfig.dev.json
+D:\Workspace\VS_REPOS\equations\equations\bin\Debug\netcoreapp2.0\equations.dll
+D:\Workspace\VS_REPOS\equations\equations\bin\Debug\netcoreapp2.0\equations.pdb
+D:\Workspace\VS_REPOS\equations\equations\obj\Debug\netcoreapp2.0\equations.csprojResolveAssemblyReference.cache
+D:\Workspace\VS_REPOS\equations\equations\obj\Debug\netcoreapp2.0\equations.csproj.CoreCompileInputs.cache
+D:\Workspace\VS_REPOS\equations\equations\obj\Debug\netcoreapp2.0\equations.AssemblyInfoInputs.cache
+D:\Workspace\VS_REPOS\equations\equations\obj\Debug\netcoreapp2.0\equations.AssemblyInfo.cs
+D:\Workspace\VS_REPOS\equations\equations\obj\Debug\netcoreapp2.0\equations.dll
+D:\Workspace\VS_REPOS\equations\equations\obj\Debug\netcoreapp2.0\equations.pdb

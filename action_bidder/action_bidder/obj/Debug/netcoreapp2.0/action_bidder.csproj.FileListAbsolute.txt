@@ -1,0 +1,11 @@
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\bin\Debug\netcoreapp2.0\action_bidder.deps.json
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\bin\Debug\netcoreapp2.0\action_bidder.runtimeconfig.json
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\bin\Debug\netcoreapp2.0\action_bidder.runtimeconfig.dev.json
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\bin\Debug\netcoreapp2.0\action_bidder.dll
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\bin\Debug\netcoreapp2.0\action_bidder.pdb
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\obj\Debug\netcoreapp2.0\action_bidder.csprojResolveAssemblyReference.cache
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\obj\Debug\netcoreapp2.0\action_bidder.csproj.CoreCompileInputs.cache
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\obj\Debug\netcoreapp2.0\action_bidder.AssemblyInfoInputs.cache
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\obj\Debug\netcoreapp2.0\action_bidder.AssemblyInfo.cs
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\obj\Debug\netcoreapp2.0\action_bidder.dll
+D:\Workspace\VS_REPOS\action_bidder\action_bidder\obj\Debug\netcoreapp2.0\action_bidder.pdb

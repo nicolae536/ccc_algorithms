@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bawling_counter", "bawling_counter\bawling_counter.csproj", "{B2E6BCB3-3BA1-457D-921F-8B0BA401EF7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E6BCB3-3BA1-457D-921F-8B0BA401EF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E6BCB3-3BA1-457D-921F-8B0BA401EF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E6BCB3-3BA1-457D-921F-8B0BA401EF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E6BCB3-3BA1-457D-921F-8B0BA401EF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D37C293-EFE7-418C-8AB7-331C54EFCB94}
+	EndGlobalSection
+EndGlobal
