@@ -1,0 +1,11 @@
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\bin\Debug\netcoreapp2.0\fractal_area.deps.json
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\bin\Debug\netcoreapp2.0\fractal_area.runtimeconfig.json
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\bin\Debug\netcoreapp2.0\fractal_area.runtimeconfig.dev.json
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\bin\Debug\netcoreapp2.0\fractal_area.dll
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\bin\Debug\netcoreapp2.0\fractal_area.pdb
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\obj\Debug\netcoreapp2.0\fractal_area.csprojResolveAssemblyReference.cache
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\obj\Debug\netcoreapp2.0\fractal_area.csproj.CoreCompileInputs.cache
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\obj\Debug\netcoreapp2.0\fractal_area.AssemblyInfoInputs.cache
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\obj\Debug\netcoreapp2.0\fractal_area.AssemblyInfo.cs
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\obj\Debug\netcoreapp2.0\fractal_area.dll
+D:\Workspace\VS_REPOS\fractal_area\fractal_area\obj\Debug\netcoreapp2.0\fractal_area.pdb
